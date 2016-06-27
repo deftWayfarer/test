@@ -1,0 +1,6 @@
+E:\documents\Git\ConsApp1\ConsApp1\bin\Debug\ConsApp1.exe.config
+E:\documents\Git\ConsApp1\ConsApp1\bin\Debug\ConsApp1.exe
+E:\documents\Git\ConsApp1\ConsApp1\bin\Debug\ConsApp1.pdb
+E:\documents\Git\ConsApp1\ConsApp1\obj\Debug\ConsApp1.csprojResolveAssemblyReference.cache
+E:\documents\Git\ConsApp1\ConsApp1\obj\Debug\ConsApp1.exe
+E:\documents\Git\ConsApp1\ConsApp1\obj\Debug\ConsApp1.pdb
