@@ -16,6 +16,7 @@ class Program
         cat.weight = 13.2f;
         cat.species = "Angor";
         dog.species = "Pitbull";
+        fox.species = "Fenik";
         byte age = (byte)(cat.age + 1);
         string catInf = string.Format("species: {0}\nage: {1}\nheight: {2}\nweight: {3}\n",cat.species, cat.age, cat.height, cat.weight);
         Console.WriteLine(catInf);
