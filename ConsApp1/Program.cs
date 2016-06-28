@@ -19,6 +19,12 @@ class Program
         fox.species = "Fenik";
         byte age = (byte)(cat.age + 1);
         string catInf = string.Format("species: {0}\nage: {1}\nheight: {2}\nweight: {3}\n",cat.species, cat.age, cat.height, cat.weight);
+        string str1 = "string";
+        string str2 = "string";
+        string str3 = string.Copy(str1);
+        Console.WriteLine(str1.GetHashCode());
+        Console.WriteLine(str2.GetHashCode());
+        Console.WriteLine(str3.GetHashCode());
         Console.WriteLine(catInf);
         Console.ReadKey();
     }
